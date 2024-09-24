@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-by-city-project-wedpage/static/css/main.cde666c5.css",
+    "main.js": "/weather-by-city-project-wedpage/static/js/main.67695410.js",
+    "static/js/453.288d4ee2.chunk.js": "/weather-by-city-project-wedpage/static/js/453.288d4ee2.chunk.js",
+    "index.html": "/weather-by-city-project-wedpage/index.html",
+    "main.cde666c5.css.map": "/weather-by-city-project-wedpage/static/css/main.cde666c5.css.map",
+    "main.67695410.js.map": "/weather-by-city-project-wedpage/static/js/main.67695410.js.map",
+    "453.288d4ee2.chunk.js.map": "/weather-by-city-project-wedpage/static/js/453.288d4ee2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde666c5.css",
+    "static/js/main.67695410.js"
+  ]
+}
